@@ -1,0 +1,29 @@
+.linha{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.salmao{
+    background-color: salmon;
+}
+
+.green{
+    background-color: seagreen;
+}
+
+.yellow {
+    background-color: rgb(255, 196, 0);
+}
+
+.blue{
+    background-color: rgb(0, 110, 255);
+}
+
+.pink{
+    background-color: rgb(255, 110, 134);
+}
+
+.bordo{
+    background-color: rgb(189, 86, 2);
+}
